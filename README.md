@@ -1,1 +1,1 @@
-sbout.me: *[EIA](https://about.me/eia)*
+about.me: *[EIA](https://about.me/eia)*
